@@ -17,6 +17,7 @@ import data from './DataCoordinate';
 //My addEmplois comment
 //My addEmplois comment 2
 //My addEmplois comment3
+//My addEmplois
 const { width, height } = Dimensions.get('window');
 const y = height;
 const x = width;
