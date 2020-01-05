@@ -15,11 +15,12 @@ import Button from './Button';
 import data from './DataCoordinate';
 
 //My addEmplois comment
+//My addEmplois comment 2
 <<<<<<< HEAD
 //My addEmplois comment3
-
 =======
-//My addEmplois comment 2
+
+//My addEmplois
 >>>>>>> AddEmplois
 const { width, height } = Dimensions.get('window');
 const y = height;
